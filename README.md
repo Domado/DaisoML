@@ -1,4 +1,8 @@
 # DaisoML
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Domado/dcp/actions)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+![Version](https://img.shields.io/badge/version-0.1.0-informational)
+
 🤖 Cross platform, high-speed, advanced artificial intelligence inference library, made by Daiso
 
 ## Overview
