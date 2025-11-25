@@ -1,4 +1,0 @@
-/Users/domado/Desktop/DaisoML/build/CMakeFiles/daiso_run.dir
-/Users/domado/Desktop/DaisoML/build/CMakeFiles/create_dummy_model.dir
-/Users/domado/Desktop/DaisoML/build/CMakeFiles/edit_cache.dir
-/Users/domado/Desktop/DaisoML/build/CMakeFiles/rebuild_cache.dir

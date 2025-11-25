@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/create_dummy_model.dir/create_dummy_model.cpp.o CMakeFiles/create_dummy_model.dir/tensor.cpp.o CMakeFiles/create_dummy_model.dir/utils.cpp.o -o create_dummy_model
