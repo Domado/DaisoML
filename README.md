@@ -7,7 +7,7 @@
 
 ## Overview
 
-DaisoML is a lightweight, high-performance C++ inference library designed for Transformer-based Large Language Models (LLMs). Built with standard C++, it provides a clean and modular implementation of modern architecture components found in state-of-the-art models, focusing on portability and educational value.
+DaisoML is a lightweight, high-performance C++ inference library designed for Transformer-based Large Language Models (LLMs). Built with standard C++, it provides a clean and modular implementation of modern architecture components found in state-of-the-art models, focusing on portability and professional value.
 
 ## Features
 
